@@ -1,0 +1,14 @@
+name: sc_env
+dependencies:
+  - python=3.9
+  - jupyter
+  - matplotlib
+  - pandas
+  - numpy
+  - requests
+  - scipy
+  - tflite-runtime
+  - tensorflow
+  - keras-image-helper
+
+
